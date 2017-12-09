@@ -18,7 +18,7 @@ span{
 }
 .screenobject{
     width: 44vw;
-    height: 44vh;
+    height: 40vh;
     display: flex;
     align-items: center;
 }
