@@ -13,9 +13,7 @@ body{
     flex-direction: row;
     flex-wrap: wrap;
 }
-span{
-    display: none;
-}
+
 .screenobject{
     width: 44vw;
     height: 40vh;
