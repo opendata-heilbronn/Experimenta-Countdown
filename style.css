@@ -13,9 +13,7 @@ body{
     flex-direction: row;
     flex-wrap: wrap;
 }
-span{
-    display: none;
-}
+
 .screenobject{
     width: 44vw;
     height: 40vh;
@@ -28,4 +26,8 @@ p{
     margin: 0;
     padding: 0;
     font-size: 2em;
+}
+
+.timer {
+    font-size: 32pt;
 }
