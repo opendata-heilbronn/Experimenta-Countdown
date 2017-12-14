@@ -19,6 +19,13 @@ body{
     height: 40vh;
     display: flex;
     align-items: center;
+    justify-content: center;
+}
+.screenobject:nth-child(2) p{
+    display: inline;
+    text-align: center;
+    vertical-align: center;
+    font-size: 32pt;
 }
 p{
     text-align: center;
@@ -29,5 +36,5 @@ p{
 }
 
 .timer {
-    font-size: 34pt;
+    font-size: 32pt;
 }
